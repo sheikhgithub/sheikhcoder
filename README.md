@@ -1,3 +1,3 @@
 # sheikhcoder
 This is my first repository
-author - Anas sheikh
+author - Anas sheikhcoder
